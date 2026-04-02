@@ -28,10 +28,10 @@ python app.py
 # Screenshots
 
 ## Home Page
-![Home](screenshots/home.png)
+![Home](screenshot/home.png)
 
 ## Recommendation Result
-![Seraching](screenshots/search.png)
+![Seraching](screenshot/search.png)
 
 ## Analytics
-![Result](screenshots/result.png)
+![Result](screenshot/result.png)
