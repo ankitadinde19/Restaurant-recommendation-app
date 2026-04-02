@@ -24,3 +24,14 @@ This is a Flask-based web application that recommends restaurants based on:
 ```bash
 pip install -r requirements.txt
 python app.py
+
+# Screenshots
+
+## Home Page
+![Home](screenshots/home.png)
+
+## Recommendation Result
+![Seraching](screenshots/search.png)
+
+## Analytics
+![Result](screenshots/result.png)
