@@ -25,13 +25,4 @@ This is a Flask-based web application that recommends restaurants based on:
 pip install -r requirements.txt
 python app.py
 
-# Screenshots
 
-## Home Page
-![Home](screenshot/home.png)
-
-## Recommendation Result
-![Seraching](screenshot/search.png)
-
-## Analytics
-![Result](screenshot/result.png)
